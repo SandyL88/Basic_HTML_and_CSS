@@ -1,0 +1,10 @@
+p {
+	background-color:gray;
+	color:gold;
+	font-weight:bold;
+	text-align:center;
+	font-style:italic;
+	font:French script MT;
+	font-size:large;
+	text-shadow: 2px 2px 4px rgba(200, 0, 0,0.8);
+}
